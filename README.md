@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: numeric overflow. The `bug.cob` file shows the flawed code, where a numeric field (`WS-AREA-2`) is incremented without checking for overflow.  The `bugSolution.cob` file demonstrates a corrected version with appropriate error handling.
